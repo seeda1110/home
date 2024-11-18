@@ -4,7 +4,8 @@
 SEEDaはいろいろなWEBサービスを手掛けます
 
 ## サービス
-- Application Develop
+- https://coromi.seeda.jp
+手書きカレンダーサービス
 
 ## Contact Information
 Email: mii012345@outlook.jp
